@@ -9,8 +9,7 @@
  - (The physics tends to break if the player moves into a corner between blocks, its reccomended that block surfaces are flate in the x or z direction as walls or floors/ceilings.)   
 - commands for testing purposes
 
- 
- 
+ Current ingame functionalities
 - Right click with an iron sword to apply thrust in a direction
 - right click with an iron axe to fire knockback arrow
 - if 'Grounded' (stopped moving due to colliding with a block) drop iron sword/axe to 'jump' in facing direction.
