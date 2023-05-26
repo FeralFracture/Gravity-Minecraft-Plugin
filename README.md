@@ -11,7 +11,7 @@
  
  -various collision detection and player placement
  
-  --The physics tends to break if the player moves into a corner between blocks, its reccomended that block surfaces are flate in the x or z direction as walls or floors/ceilings.
+  -(The physics tends to break if the player moves into a corner between blocks, its reccomended that block surfaces are flate in the x or z direction as walls or floors/ceilings.)
     
 -commands for testing purposes
 
