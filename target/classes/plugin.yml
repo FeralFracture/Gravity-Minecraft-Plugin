@@ -1,9 +1,0 @@
-name: Gravity
-version: '1.0-SNAPSHOT'
-main: me.gravity.gravity.Gravity
-api-version: 1.19
-commands:
-  ResetArrows:
-    description: deletes all arrows
-  SpawnVehicle:
-    description: places the user on an arrow
